@@ -1,1 +1,2 @@
-create two ec2 vms
+create two ec2 vmsgit config
+one is for master and one is for node 
