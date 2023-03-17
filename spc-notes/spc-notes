@@ -1,5 +1,19 @@
 create two ec2 vmsgit config
 one is for master and one is for node  
+
+jenkins master config 
+crete node 
+java install
+maven install
+aws cli config 
+sudo apt update
+sudo apt install awscli
+awscli --version
+aws configure 
+AWS Access Key ID [None]:
+AWS Secret Access Key [None]: 
+ansible install
+open vs code in gitbash 
 ![preview](Images/s3 bucket running.png)
 
 pipeline {
